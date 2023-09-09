@@ -1,2 +1,3 @@
 # meupetecommerce
-Projeto E-commerce para o curso da iTalents
+
+Projeto E-commerce para o curso da iTalents.
